@@ -1,0 +1,25 @@
+{
+  "name": "p5js-generator",
+  "version": "1.0.0",
+  "description": "This module was made a quick way to get off the ground with a P5js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdear4/P5JS-Generator.git"
+  },
+  "keywords": [
+    "P5js"
+  ],
+  "author": "Ron Dear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdear4/P5JS-Generator/issues"
+  },
+  "homepage": "https://github.com/rdear4/P5JS-Generator#readme",
+  "dependencies": {
+    "enquirer": "^2.3.5"
+  }
+}
